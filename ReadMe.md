@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Eu sou um Programador Java iniciante<br>🤝 Sempre disposto a ajudar e ser ajudado.<br>🌱 Estou no caminho do aprendizado, sempre em busca de "Um pouco mais".<br>💬 Me pergunte sobre qualquer coisa!
+🔭 Eu sou um Programador Java iniciante<br>🤝 Sempre disposto a ajudar e ser ajudado.<br>🌱 Em busca de saber um "pouco mais".<br>💬 Me pergunte sobre qualquer coisa!
 
 
 ## 🌐 Socials:
